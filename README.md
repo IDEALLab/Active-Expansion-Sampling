@@ -18,7 +18,7 @@ AES:
 python test_2d_aes.py
 ```
 
-Neighborhood-Voronoi: 
+Neighborhood-Voronoi algorithm: 
 ```
 python test_2d_nv.py
 ```
