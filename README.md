@@ -8,8 +8,8 @@ Experiment code associated with our paper: "Active Expansion Sampling for Learni
 - scipy
 - matplotlib
 - sklearn
-- libact
-- pyDOE
+- libact (only for straddle heuristic)
+- pyDOE (only for Neighborhood-Voronoi algorithm)
 
 ### 2D examples
 
