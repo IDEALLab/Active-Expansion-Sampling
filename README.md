@@ -3,6 +3,14 @@ Experiment code associated with our paper: "Active Expansion Sampling for Learni
 
 ![Alt text](/aes.png)
 
+### Required packages
+- numpy
+- scipy
+- matplotlib
+- sklearn
+- libact
+- pyDOE
+
 ### 2D examples
 
 AES: 
@@ -36,6 +44,4 @@ Straddle heuristic:
 ```
 python test_highdim_straddle.py
 ```
-
-
 
