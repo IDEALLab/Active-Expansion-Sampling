@@ -45,3 +45,25 @@ Straddle heuristic:
 python test_highdim_straddle.py
 ```
 
+### License
+This code is licensed under the MIT license. Feel free to use all or portions for your research or related projects so long as you provide the following citation information:
+
+Chen W, Fuge M. Active expansion sampling for learning feasible domains in an unbounded input space. Structural and Multidisciplinary Optimization. 2018 Jan 19. doi:10.1007/s00158-017-1894-y.
+
+    @Article{Chen2018,
+      author="Chen, Wei
+      and Fuge, Mark",
+      title="Active expansion sampling for learning feasible domains in an unbounded input space",
+      journal="Structural and Multidisciplinary Optimization",
+      year="2018",
+      month="Jan",
+      day="19",
+      issn="1615-1488",
+      doi="10.1007/s00158-017-1894-y",
+      url="https://doi.org/10.1007/s00158-017-1894-y"
+      }
+
+### Application: Finding Novel Designs
+This paper describes an interesting application of AES:
+
+Chen W, Fuge M. [Beyond the Known: Detecting Novel Feasible Domains Over an Unbounded Design Space](http://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleid=2645709). ASME. J. Mech. Des. 2017;139(11):111405-111405-10. doi:10.1115/1.4037306.
