@@ -50,7 +50,7 @@ This code is licensed under the MIT license. Feel free to use all or portions fo
 
 Chen W, Fuge M. Active expansion sampling for learning feasible domains in an unbounded input space. Structural and Multidisciplinary Optimization. 2018 Jan 19. doi:10.1007/s00158-017-1894-y.
 
-    @Article{Chen2018,
+    @article{chen2018aes,
       author="Chen, Wei
       and Fuge, Mark",
       title="Active expansion sampling for learning feasible domains in an unbounded input space",
