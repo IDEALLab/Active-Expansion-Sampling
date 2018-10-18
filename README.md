@@ -1,5 +1,6 @@
 # Active Expansion Sampling (AES)
 Experiment code associated with our paper:
+
 Chen W, Fuge M. [Active Expansion Sampling for Learning Feasible Domains in an Unbounded Input Space](http://ideal.umd.edu/papers/paper/samo-aes). Structural and Multidisciplinary Optimization, 57(3), 925-945.
 
 Conventional adaptive sampling/active learning:
