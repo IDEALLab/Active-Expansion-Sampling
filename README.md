@@ -1,9 +1,14 @@
 # Active Expansion Sampling (AES)
-Experiment code associated with our paper: "Active Expansion Sampling for Learning Feasible Domains in an Unbounded Input Space"
+Experiment code associated with our paper:
+Chen W, Fuge M. [Active Expansion Sampling for Learning Feasible Domains in an Unbounded Input Space](http://ideal.umd.edu/papers/paper/samo-aes). Structural and Multidisciplinary Optimization, 57(3), 925-945.
 
-![Alt text](/aes.png)
+Conventional adaptive sampling/active learning:
+![Alt text](/straddle.gif)
 
-### Required packages
+AES:
+![Alt text](/aes.gif)
+
+## Required packages
 - numpy
 - scipy
 - matplotlib
@@ -11,7 +16,7 @@ Experiment code associated with our paper: "Active Expansion Sampling for Learni
 - libact (only for straddle heuristic)
 - pyDOE (only for Neighborhood-Voronoi algorithm)
 
-### 2D examples
+## 2D examples
 
 AES: 
 ```
@@ -28,7 +33,7 @@ Straddle heuristic:
 python test_2d_straddle.py
 ```
 
-### Higher-dimensional examples
+## Higher-dimensional examples
 
 AES:
 ```
@@ -45,7 +50,7 @@ Straddle heuristic:
 python test_highdim_straddle.py
 ```
 
-### License
+## License
 This code is licensed under the MIT license. Feel free to use all or portions for your research or related projects so long as you provide the following citation information:
 
 Chen W, Fuge M. Active expansion sampling for learning feasible domains in an unbounded input space. Structural and Multidisciplinary Optimization. 2018 Jan 19. doi:10.1007/s00158-017-1894-y.
@@ -63,7 +68,7 @@ Chen W, Fuge M. Active expansion sampling for learning feasible domains in an un
       url="https://doi.org/10.1007/s00158-017-1894-y"
       }
 
-### Application: Finding Novel Designs
+## Application: Finding Novel Designs
 This paper describes an interesting application of AES:
 
-Chen W, Fuge M. [Beyond the Known: Detecting Novel Feasible Domains Over an Unbounded Design Space](http://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleid=2645709). ASME. J. Mech. Des. 2017;139(11):111405-111405-10. doi:10.1115/1.4037306.
+Chen W, Fuge M. [Beyond the Known: Detecting Novel Feasible Domains Over an Unbounded Design Space](http://ideal.umd.edu/papers/paper/jmd-feasible-designs). ASME. J. Mech. Des. 2017;139(11):111405-111405-10. doi:10.1115/1.4037306.
